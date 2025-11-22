@@ -525,7 +525,7 @@ type RRDData struct {
 	CPU       float64
 	MaxCPU    int
 	Mem       float64
-	MaxMem    uint64
+	MaxMem    float64
 	Disk      int
 	MaxDisk   float64
 	DiskRead  float64
