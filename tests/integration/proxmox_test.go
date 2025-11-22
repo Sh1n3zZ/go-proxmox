@@ -13,8 +13,8 @@ import (
 	"testing"
 	"time"
 
+	"github.com/Sh1n3zZ/go-proxmox"
 	"github.com/diskfs/go-diskfs/filesystem/iso9660"
-	"github.com/luthermonson/go-proxmox"
 	"github.com/stretchr/testify/assert"
 )
 
@@ -48,7 +48,7 @@ var (
 		},
 	}
 
-	tinycoreURL     = "https://github.com/luthermonson/go-proxmox/releases/download/tests/tinycore.iso"
+	tinycoreURL     = "https://github.com/Sh1n3zZ/go-proxmox/releases/download/tests/tinycore.iso"
 	ubuntuURL       = "https://releases.ubuntu.com/20.04.3/ubuntu-20.04.3-desktop-amd64.iso"
 	alpineAppliance = "http://download.proxmox.com/images/system/alpine-3.17-default_20221129_amd64.tar.xz"
 )

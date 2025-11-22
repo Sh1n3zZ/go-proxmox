@@ -6,7 +6,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/luthermonson/go-proxmox/tests/mocks"
+	"github.com/Sh1n3zZ/go-proxmox/tests/mocks"
 )
 
 func TestClusterCeph_Status(t *testing.T) {

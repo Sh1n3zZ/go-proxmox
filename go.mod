@@ -1,4 +1,4 @@
-module github.com/luthermonson/go-proxmox
+module github.com/Sh1n3zZ/go-proxmox
 
 go 1.22
 

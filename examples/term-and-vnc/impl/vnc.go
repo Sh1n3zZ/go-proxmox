@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"strings"
 
+	"github.com/Sh1n3zZ/go-proxmox"
 	"github.com/gin-gonic/gin"
 	"github.com/gorilla/websocket"
-	"github.com/luthermonson/go-proxmox"
 	"github.com/rs/zerolog/log"
 )
 

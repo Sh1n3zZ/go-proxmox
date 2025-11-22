@@ -1,8 +1,8 @@
 package pve7x
 
 import (
+	"github.com/Sh1n3zZ/go-proxmox/tests/mocks/config"
 	"github.com/h2non/gock"
-	"github.com/luthermonson/go-proxmox/tests/mocks/config"
 )
 
 func nodes() {

@@ -2,14 +2,14 @@ module term-and-vnc
 
 go 1.22.0
 
-replace github.com/luthermonson/go-proxmox => ../../
+replace github.com/Sh1n3zZ/go-proxmox => ../../
 
 require (
 	github.com/gin-contrib/cors v1.7.2
 	github.com/gin-gonic/gin v1.10.0
 	github.com/gorilla/websocket v1.5.3
 	github.com/joho/godotenv v1.5.1
-	github.com/luthermonson/go-proxmox v0.1.1
+	github.com/Sh1n3zZ/go-proxmox v0.1.1
 	github.com/rs/zerolog v1.33.0
 )
 

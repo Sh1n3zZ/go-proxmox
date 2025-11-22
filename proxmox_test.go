@@ -7,8 +7,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/luthermonson/go-proxmox/tests/mocks"
-	"github.com/luthermonson/go-proxmox/tests/mocks/config"
+	"github.com/Sh1n3zZ/go-proxmox/tests/mocks"
+	"github.com/Sh1n3zZ/go-proxmox/tests/mocks/config"
 	"github.com/stretchr/testify/assert"
 )
 
