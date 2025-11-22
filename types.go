@@ -527,7 +527,7 @@ type RRDData struct {
 	Mem       float64
 	MaxMem    uint64
 	Disk      int
-	MaxDisk   uint64
+	MaxDisk   float64
 	DiskRead  float64
 	DiskWrite float64
 	NetIn     float64
